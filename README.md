@@ -1,2 +1,2 @@
 # CodSoft_Quiz
-This is a “QUIZ” android app which gives the information
+The android quiz applications test your knowledge and understanding in different areas.
